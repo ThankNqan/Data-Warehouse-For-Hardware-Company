@@ -28,8 +28,8 @@
 - Truy vấn các câu hỏi mà nhóm đưa ra bằng công cụ SSAS, Pivot Table, PowerBI
 #### 3.4. Xây dựng Dashboard với PowerBI
 - Thống kê doanh thu theo sản phẩm
-![alt text](Diagram-Image/images/Picture1.png)
-- Thống kê doanh thu theo khách hàng 
 ![alt text](Diagram-Image/images/Picture2.png)
+- Thống kê doanh thu theo khách hàng 
+![alt text](Diagram-Image/images/Picture1.png)
 - Thống kê lượng sản phẩm tồn đọng ở các kho
 ![alt text](Diagram-Image/images/Picture3.png)
