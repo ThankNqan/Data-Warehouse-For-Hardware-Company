@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="THANHNGAN_SQLEXPRESS.HardwareDatabase"
+  DTS:DTSID="{461529DF-8D98-4723-B3A4-90506DCA65E4}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=THANHNGAN\SQLEXPRESS;Initial Catalog=HardwareDatabase;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Hardware Integration Services-{461529DF-8D98-4723-B3A4-90506DCA65E4}THANHNGAN\SQLEXPRESS.HardwareDatabase;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="THANHNGAN_SQLEXPRESS.tempdb"
+  DTS:DTSID="{57D0BAD0-360A-4EA0-9217-9968B68AC491}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=THANHNGAN\SQLEXPRESS;Initial Catalog=tempdb;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Hardware Integration Services-{57D0BAD0-360A-4EA0-9217-9968B68AC491}THANHNGAN\SQLEXPRESS.tempdb;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
