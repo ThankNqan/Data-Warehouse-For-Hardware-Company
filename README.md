@@ -1,1 +1,1 @@
-# Data-Warehouse-For-Hardware-Company
+# Xây Dựng Kho Dữ Liệu Bán Hàng Cho Công Ty Thiết Bị Phần Cứng
